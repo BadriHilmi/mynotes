@@ -1,2 +1,2 @@
 # mynotes
-First Official fullter trial 
+First Official flutter trial 
